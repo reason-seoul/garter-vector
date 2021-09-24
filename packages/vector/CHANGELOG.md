@@ -1,5 +1,11 @@
 # rescript-vector
 
+## 0.4.1
+
+### Patch Changes
+
+- a8e84b9: Transform stdlib import path to be match to correct target
+
 ## 0.4.0
 
 ### Minor Changes
